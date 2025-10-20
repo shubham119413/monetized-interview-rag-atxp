@@ -1,0 +1,23 @@
+# Environment variables
+.env
+*.env
+!.env.example
+
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+*.log
+
+# Uploads
+uploads/
+
+# OS
+.DS_Store
+
+# ngrok
+ngrok
