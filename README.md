@@ -19,5 +19,3 @@ See individual folders for setup instructions:
 ## Running Locally
 
 Requires 4 terminals + ngrok for HTTPS tunneling.
-
-See [SETUP.md](SETUP.md) for detailed instructions.
